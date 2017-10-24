@@ -28,7 +28,7 @@ Including an example of how to use your role (for instance, with variables passe
          - { role: username.rolename, x: 42 }
 
 <!---
-VIDEOS
+videos here
 -->
 
 License
