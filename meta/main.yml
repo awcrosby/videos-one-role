@@ -26,6 +26,12 @@ galaxy_info:
   - url: https://drive.google.com/a/redhat.com/file/d/0B-dPlvMAcg0YTnRmLWdiNUpISE0/view?usp=sharing
     title: Example video from Google Drive
 
+  cloud_platforms:
+  - AWS
+  - Azure
+  - Google
+  - google
+
   min_ansible_version: 2.4
 
   # If this a Container Enabled role, provide the minimum Ansible Container version.
